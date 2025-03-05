@@ -1,0 +1,11 @@
+{
+  "name": "com.namey5.toolbox",
+  "version": "0.1.0",
+  "unity": "6000.0",
+  "displayName": "Toolbox",
+  "description": "A collection of utilities for Unity 6+.",
+  "author": {
+    "name": "Alex Threlfo",
+    "url": "https://github.com/Namey5"
+  }
+}
