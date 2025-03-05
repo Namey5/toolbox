@@ -1,7 +1,9 @@
 {
     "name": "N5.Toolbox.Editor",
     "rootNamespace": "N5.Toolbox.Editor",
-    "references": [],
+    "references": [
+        "N5.Toolbox"
+    ],
     "includePlatforms": [
         "Editor"
     ],
