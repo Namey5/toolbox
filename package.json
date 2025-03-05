@@ -1,6 +1,6 @@
 {
   "name": "com.namey5.toolbox",
-  "version": "0.1.0",
+  "version": "0.1.0-preview",
   "unity": "6000.0",
   "displayName": "Toolbox",
   "description": "A collection of utilities for Unity 6+.",
